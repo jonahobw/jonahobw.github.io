@@ -1,11 +1,11 @@
 ---
 layout: cv
-permalink: /cv/
-title: cv
+permalink: /resume/
+title: resume
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: JOWResume3_21_25.pdf # you can also use external links here
+description: "<a href='https://www.linkedin.com/in/jonah-obrien-weiss' target='_blank'>www.linkedin.com/in/jonah-obrien-weiss</a>"
 toc:
   sidebar: left
 ---
