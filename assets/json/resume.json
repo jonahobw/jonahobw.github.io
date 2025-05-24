@@ -84,7 +84,7 @@
       "studyType": "Master of Science",
       "startDate": "2021-09-01",
       "endDate": "2023-05-01",
-      "Thesis": "[A Model Extraction Attack on Deep Neural Networks Running on GPUs](https://scholarworks.umass.edu/entities/publication/a0631f59-97fb-435c-9546-86068ce4a468)",
+      "Thesis": "[A Model Extraction Attack on Deep Neural Networks Running on GPUs](https://doi.org/10.7275/35614344)",
       "score": "3.96",
       "courses": []
     },
@@ -97,7 +97,7 @@
       "startDate": "2017-09-01",
       "endDate": "2021-05-01",
       "score": "3.90",
-      "Thesis": "Toward Mitigating Adversarial Attack on Neural Networks via Hybrid Neural Network Decision Tree Architecture",
+      "Thesis": "[Toward Mitigating Adversarial Attack on Neural Networks via Hybrid Neural Network Decision Tree Architecture](https://doi.org/10.7275/8132)",
       "courses": []
     }
   ],
