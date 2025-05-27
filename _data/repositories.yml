@@ -1,5 +1,11 @@
-github_users:
+github_users: jonahobw
 
 repo_description_lines_max: 2
 
 github_repos:
+  - jonahobw/greedy_adversarial_pruning
+  - jonahobw/gpu_model_extraction
+  - jonahobw/connect4vsRL
+  - jonahobw/podem_atpg
+  - jonahobw/stylegan2-ada-pytorch
+  - jonahobw/AoC2024
