@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Deep Learning @ Mathworks · **Previously:** [Amazon Robotics](https://www.aboutamazon.com/news/tag/robotics)/[Tesla](https://www.tesla.com)/[Dell](https://www.dell.com)/[UMass Amherst](https://www.umass.edu)
+subtitle: Deep Learning @ Mathworks · **Previously:** [Amazon Robotics](https://www.aboutamazon.com/news/tag/robotics)/[Tesla](https://www.tesla.com)/[Dell](https://www.dell.com)
 
 profile:
   align: right
@@ -29,9 +29,14 @@ latest_posts:
 
 👋 Welcome to my website!
 
-I’m a software engineer at Mathworks, working on image processing, computer vision, and automated visual inspection.
+I’m a research engineer at MathWorks, working in image processing, computer vision, and automated visual inspection spaces.
 
-I contribute to a team focused on solving challenging problems at the intersection of AI and industrial manufacturing. My work involves building tools to automate and improve quality control through anomaly detection. These solutions have potential applications in areas like medical imaging and predictive maintenance.
+I contribute to a team focused on solving challenging problems at the intersection of AI and industrial manufacturing. Some of my work includes:
+- fine-tuning multimodal embedding models to automate and improve quality control through anomaly detection
+- designing proprietary image metrology tools for automated, precise measurement
+- implementing industry standard template matching algorithms from expired patents
+- performing literature surveys and assessing which state-of-the-art research is best fit to complement MathWorks's product offerings
+These solutions reduce waste and cost of manufacturing at scale, leading to cheaper products which benefit everyone.
 
 As a scientist, I’m broadly interested in the theoretical foundations and practical applications of core deep learning areas like computer vision, generative models, and adversarial machine learning.
 
