@@ -31,11 +31,12 @@
       "endDate": null,
       "summary": "Development in Deep Learning, Image Processing, Computer Vision, and Automated Visual Inspection areas",
       "highlights": [
-        "Investigated compression methods for physics-informed neural networks.",
-        "Performed literature surveys and implemented state-of-the-art research into the Automated Visual Inspection Toolbox.",
+        "Performed literature surveys and implemented state-of-the-art research into computer vision products.",
+        "Fine-tuned a multimodal embedding model for use in industrial anomaly classification and segmentation tasks.",
+        "Investigated compression methods for physics-informed neural networks on edge devices.",
+        "Shipped 5 image metrology tools with proprietary snap-to-edge functionality for automated measurements.",
+        "Implemented industry standard template-matching algorithms from expired Cognex PATMAX patent.",
         "Validated performance of a new loss function for a 3D pose estimation model and designed an interface for it.",
-        "Developed and shipped 5 image metrology tools with snap-to-edge functionality for precise measurements.",
-        "Implemented industry standard template-matching algorithms from expired patents.",
         "Trained and coached colleagues and customers on deep learning in MATLAB, PyTorch, and TensorFlow."
       ]
     },
