@@ -35,7 +35,8 @@ I contribute to a team focused on solving challenging problems at the intersecti
 - fine-tuning multimodal embedding models to automate and improve quality control through anomaly detection
 - designing proprietary image metrology tools for automated, precise measurement
 - implementing industry standard template matching algorithms from expired patents
-- performing literature surveys and assessing which state-of-the-art research is best fit to complement MathWorks's product offerings
+- performing literature surveys and assessing which state-of-the-art research is best fit to complement MathWorks's product offerings.
+
 These solutions reduce waste and cost of manufacturing at scale, leading to cheaper products which benefit everyone.
 
 As a scientist, I’m broadly interested in the theoretical foundations and practical applications of core deep learning areas like computer vision, generative models, and adversarial machine learning.
