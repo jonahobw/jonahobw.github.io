@@ -6,7 +6,7 @@
     "email": "jgow98@gmail.com",
     "phone": "(774) 312 1209",
     "url": "https://jonahobw.github.io",
-    "summary": "Driven, research-oriented software engineer seeking to leverage deep learning expertise in an applied AI or research role to solve complex challenges and contribute to cutting-edge projects.",
+    "summary": "Driven research engineer seeking to leverage deep learning expertise in an applied AI or research role to solve complex challenges and contribute to cutting-edge projects.",
     "location": {
       "address": "5 Palermo St.",
       "postalCode": "02141",
@@ -25,21 +25,23 @@
   "work": [
     {
       "name": "MathWorks",
-      "position": "Software Engineer",
+      "position": "Research Software Engineer",
       "url": null,
       "startDate": "2023",
       "endDate": null,
-      "summary": "Tool development for Deep Learning, Image Processing, Computer Vision, and Automated Visual Inspection",
+      "summary": "Development in Deep Learning, Image Processing, Computer Vision, and Automated Visual Inspection areas",
       "highlights": [
-        "Performed literature surveys and implemented SOTA research into the Automated Visual Inspection Toolbox.",
+        "Investigated compression methods for physics-informed neural networks.",
+        "Performed literature surveys and implemented state-of-the-art research into the Automated Visual Inspection Toolbox.",
         "Validated performance of a new loss function for a 3D pose estimation model and designed an interface for it.",
         "Developed and shipped 5 image metrology tools with snap-to-edge functionality for precise measurements.",
+        "Implemented industry standard template-matching algorithms from expired patents.",
         "Trained and coached colleagues and customers on deep learning in MATLAB, PyTorch, and TensorFlow."
       ]
     },
     {
       "name": "Amazon Robotics, Innovation Lab",
-      "position": "Software Engineering Intern",
+      "position": "Robotics Software Engineering Intern",
       "url": null,
       "startDate": "2022-05-01",
       "endDate": "2022-08-01",
@@ -165,7 +167,8 @@
         "OpenCV",
         "Point Cloud Library",
         "Docker",
-        "Linux"
+        "Linux",
+        "AWS"
       ]
     }
   ],
