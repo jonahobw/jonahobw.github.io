@@ -43,4 +43,4 @@ As a scientist, I’m broadly interested in the theoretical foundations and prac
 
 Previously, I completed my Master's in Computer Engineering with a focus on Machine Learning from the University of Massachusetts Amherst, where I was advised by Sandip Kundu and worked on adversarial attacks and defenses to deep neural networks. I have also brought robots to life at Amazon Robotics (2022), wrangled big data at Tesla (2021), and prevented supply chain attacks at Dell (2020).
 
-Outside of work, I like to balance my technical pursuits by staying active (soccer, gym, running), expressing creativity through drumming ([@jonahobwdrums](https://www.instagram.com/jonahobwdrums/)),  exploring a wide range of topics through reading, (philosophy, psychology, economics, social issues), and recharging with good food and good company.
+Outside of work, I like to balance my technical pursuits by staying active (soccer, gym, running), expressing creativity through drumming, exploring a wide range of topics through reading, (philosophy, psychology, economics, social issues), and recharging with good food and good company.
